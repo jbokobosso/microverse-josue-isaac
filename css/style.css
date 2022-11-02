@@ -12,6 +12,8 @@
 
 #left-part {
     width: 20%;
+    border-right: 1px solid black;
+    margin-right: 40px;
 }
 
 #right-part {
