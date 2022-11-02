@@ -17,3 +17,11 @@
 #right-part {
     width: 80%
 }
+
+#menu-list {
+    list-style-type: none;
+}
+
+#menu-list li a { 
+      text-decoration: none;
+}
