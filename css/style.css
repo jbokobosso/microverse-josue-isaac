@@ -1,5 +1,19 @@
-@media only screen and( max-width :600px) {
-    body {
-        background-color: yellow;
+@media screen and (max-width: 480px) {
+    main {
+        background-color: red;
     }
+}
+
+#main-doc {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+#left-part {
+    width: 20%;
+}
+
+#right-part {
+    width: 80%
 }
